@@ -3,11 +3,12 @@
 using ConsoleApp2;
 using ConsoleApp2.Entities;
 
+
 Console.WriteLine("Hello, World!");
 CreateCompany();
 GetCompany(1);
 DeleteCompany(1);
-UpdateCompany(1, new Company(){Id = 3, Name = "Tri"});
+UpdateCompany(1, new Company(){Id = 3, Name = "EuroTrip" });
 
 static void GetCompany(int id)
 {
