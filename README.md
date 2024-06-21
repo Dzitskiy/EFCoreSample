@@ -8,8 +8,8 @@ https://postgrespro.ru/docs/postgrespro/10/apjs02
 
 ## Полезные ссылки
 
-https://learn.microsoft.com/en-us/ef/core/modeling/
-https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/applying?tabs=dotnet-core-cli
-https://www.entityframeworktutorial.net/efcore/configure-many-to-many-relationship-in-ef-core.aspx
-https://habr.com/ru/articles/174709/
-https://habr.com/ru/articles/649647/
+- https://learn.microsoft.com/en-us/ef/core/modeling/
+- https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/applying?tabs=dotnet-core-cli
+- https://www.entityframeworktutorial.net/efcore/configure-many-to-many-relationship-in-ef-core.aspx
+- https://habr.com/ru/articles/174709/
+- https://habr.com/ru/articles/649647/
